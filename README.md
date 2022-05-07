@@ -7,15 +7,17 @@
 
 - 🔭 I’m currently working on [Five cards of Space](https://fivecardsofspace.netlify.app/)
 
-- 👯 I’m looking to collaborate on **Something I dont want to Share Yet**
+
+
+- 👯 I’m looking to collaborate on **Something I will share later**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AyobamiH/JavaScript](https://github.com/AyobamiH/JavaScript)
 
-<iframe src=''> </iframe>
 
 
 
-- 📫 How to reach me **heryourbarme@live.com**
+
+- 📫 How to reach me through email at **heryourbarme@live.com** or via mobile on **07402342694**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
