@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Something I will share later**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AyobamiH/JavaScript](https://github.com/AyobamiH/JavaScript)
-
 
 
 
