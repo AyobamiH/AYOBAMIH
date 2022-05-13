@@ -15,7 +15,7 @@
 
 
 
-- 📫 How to reach me through email at **heryourbarme@live.com** or via mobile on **07402342694**
+- 📫 You can reach me through email at **heryourbarme@live.com** or via mobile on **07402342694**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
