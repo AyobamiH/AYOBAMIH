@@ -2,13 +2,13 @@
   <img width="100%" src="https://github.com/AyobamiH/AYOBAMIH/blob/main/Newheader.gif" />
 </header>
 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=340404&background=F90B0B88&vCenter=true&width=700&lines=A+passionate+Full-stack+developer+from+Northampton+England."/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Ayobami Haastrup</h1>
-<h3 align="center">A passionate frontend developer from Northampton England</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayobamih&label=Profile%20views&color=fc7d7d&style=flat" alt="ayobamih" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayobamih&label=Profile%20views&color=0e75b6&style=flat" alt="ayobamih" /> </p>
-
-<p align="left"> <a href="https://twitter.com/woeinvests" target="blank"><img src="https://img.shields.io/twitter/follow/woeinvests?logo=twitter&style=for-the-badge" alt="woeinvests" /></a> </p>
+<p align="left"> <a href="https://twitter.com/woeinvests" target="blank"><img src="https://img.shields.io/twitter/follow/woeinvests?logo=twitter&color=fc7d7d&style=for-the-badge" alt="woeinvests" /></a> </p>
 
 - 🔭 I’m currently working on [Five cards of Space](https://fivecardsofspace.netlify.app/) and other private projects.
 
@@ -29,7 +29,7 @@
 <!--   Repo mark   -->
 		  <span align="center"> <a href="https://github.com/AyobamiH/Five-Cards-Of-Space" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub-Repo" height ="25px"></a> 
 <!-- live site  -->
-	<a href="https://fivecardsofspace.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px" ></a></span>
+	<a href="https://fivecardsofspace.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=c96363" alt="Live Site" height="25px" ></a></span>
 <!-- discription  -->
             <p align="center">
 		    <strong>HTML5 CSS3 JavaScript </strong><br>Los Angeles Star Gazers Society APOD Web App with NASA-APOD API integration.</p>
@@ -42,7 +42,7 @@
  <!--   Repo mark   -->
             <span> <a href="https://github.com/AyobamiH/Albion-Landscapers" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
-	<a href="https://albionlandscaping.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a> </span>
+	<a href="https://albionlandscaping.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=c96363" alt="Live Site" height="25px"></a> </span>
 <!-- discription  -->
             <p align="center">
 		    <strong>HTML5 CSS3 JavaScript </strong><br> Personal portfolio including links to my recent projects, fun facts and my personal contacts. check this out for more info!</p>
@@ -57,7 +57,7 @@
 <!--   Repo mark   -->
 		  <span> <a href="https://github.com/AyobamiH/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
-	<a href="https://razztazz.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a></span>
+	<a href="https://razztazz.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=c96363" alt="Live Site" height="25px"></a></span>
 <!-- discription  -->
             <p align="center">
                <strong>HTML5 CSS3 JavaScript </strong><br> A mobile responsive cleaning website to support clients.</p>
@@ -70,7 +70,7 @@
  <!--   Repo mark   -->
             <span> <a href="https://github.com/AyobamiH/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
-	<a href="https://thedoggiehotelkennels.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a> </span>
+	<a href="https://thedoggiehotelkennels.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=c96363" alt="Live Site" height="25px"></a> </span>
 <!-- discription  -->
             <p align="center">
 		   <strong>HTML5 CSS3 JavaScript </strong><br> The doggie hotel kennels gallery with Dog-Ceo API integration</p>
