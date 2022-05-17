@@ -3,27 +3,25 @@
 </header>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=340404&background=F90B0B88&vCenter=true&width=700&lines=A+passionate+Full-stack+developer+from+Northampton+England."/>
+<img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=340404&background=F90B0B88&vCenter=true&width=560&lines=A+passionate+full-stack+developer+from+Northampton."/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayobamih&label=Profile%20views&color=fc7d7d&style=flat" alt="ayobamih" /> </p>
 
 <p align="left"> <a href="https://twitter.com/woeinvests" target="blank"><img src="https://img.shields.io/twitter/follow/woeinvests?logo=twitter&color=fc7d7d&style=for-the-badge" alt="woeinvests" /></a> </p>
 
-- 🔭 I’m currently working on [Five cards of Space](https://fivecardsofspace.netlify.app/) and other private projects.
 
 
 
-- 👯 I’m looking to collaborate on **Something I will share later**
 
-## Projects
+<h1 align="center"> Projects </h1>
 
 <div align="center">
 	
   <table>
       <tr>
         <td class="1" width="50%">
-          <h3 align="center">Five Cards of Space</h3>
+          <h3 align="center">Five cards of space</h3>
           <p align="center">
             <a  href="https://fivecardsofspace.netlify.app/" target="_blank" rel="noreferrer"> <img  src="https://github.com/AyobamiH/AYOBAMIH/blob/main/spacevid.gif" alt="NASA_POD"/></a>
 <!--   Repo mark   -->
@@ -36,7 +34,7 @@
           </p>
         </td>
        <td class="2" width="50%">
-          <h3 align="center">Personal Portfolio</h3>
+          <h3 align="center">Personal portfolio</h3>
           <p align="center">
             <a href="https://johnhaastrup.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/AyobamiH/AYOBAMIH/blob/main/portfolio.gif" alt="Portfolio"/></a>
  <!--   Repo mark   -->
@@ -64,7 +62,7 @@
           </p>
         </td>
        <td class="4" width="50%">
-          <h3 align="center">Food Checker</h3>
+          <h3 align="center">Doggie hotel kennels galleria</h3>
           <p align="center">
             <a href="https://thedoggiehotelkennels.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/AyobamiH/AYOBAMIH/blob/main/doggie.gif" alt="Doggie"/></a>
  <!--   Repo mark   -->
@@ -82,17 +80,53 @@
 </div>	
 
 
+<h1 align="center">Technologies</h1>
 
 
-- 📫 You can reach me through email at **heryourbarme@live.com** or via mobile on **07402342694**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/woeinvests" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="woeinvests" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayobami-j-haastrup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayobami-j-haastrup" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=ff7490&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=ff7490&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=e0b9bc&style=plastic&logo=bootstrap"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=c3b017&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=fe738e&style=plastic&logo=python"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=b25164&style=plastic&logo=java"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=000000&style=plastic&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=231f20&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=bf576c&style=plastic&logo=firebase"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SQLSERVER&color=091b39&style=plastic&logo=sqlserver"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MYSQL&color=bf576c&style=plastic&logo=mysql"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MATERIALIZE-CSS&color=bf576c&style=plastic&logo=materialize-css"/>
+  
+</p>
+<h1 align="center"> Contact me </h1>
+<p align="center">
+	<img src="https://img.shields.io/static/v1?label=|&message=heryourbarme@live.com&color=bf576c&style=plastic&logo=email"/>
+	<img src="https://img.shields.io/static/v1?label=|&message=07402342694&color=bf576c&style=plastic&logo=phone-number"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayobamih&" alt="ayobamih" /></p>
+
+<h1 align="center">Connect</h1>
+
+
+
+<p align="center">
+  <a href="https://johnhaastrup.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ayobami-j-haastrup" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=bf576c&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/woeinvests" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d86279&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/ayobami-haastrup" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=000000&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  
+</p>
+
+<h1 align="center">GitHub Stats:</h1>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AyobamiH&theme=merko&date_format=j%20M%5B%20Y%5D&background=B25164&ring=450C0C&currStreakLabel=1A0505&fire=150404"/></p>
