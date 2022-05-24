@@ -1,4 +1,4 @@
-<header>
+<header align="center>
   <img width="100%" src="https://github.com/AyobamiH/AYOBAMIH/blob/main/Newheader.gif" />
 </header>
 
