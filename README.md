@@ -1,8 +1,8 @@
-<header align="center">
-  <img align="center" width="100%" src="https://github.com/AyobamiH/AYOBAMIH/blob/main/Newheader.gif"/>
+<header>
+  <img  width=100% src="https://github.com/AyobamiH/AYOBAMIH/blob/main/Newheader.gif "/>
 </header>
 
-<div align="left">
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=340404&background=F90B0B88&vCenter=true&width=560&lines=A+passionate+full-stack+developer+from+Northampton."/>
 </div>
 
@@ -20,7 +20,7 @@
 	
   <table>
       <tr>
-        <td class="1" width="50%">
+        <td class="1" width=50%>
           <h3 align="center">Five cards of space</h3>
           <p align="center">
             <a  href="https://fivecardsofspace.netlify.app/" target="_blank" rel="noreferrer"> <img  src="https://github.com/AyobamiH/AYOBAMIH/blob/main/spacevid.gif" alt="NASA_POD"/></a>
@@ -33,7 +33,7 @@
 		    <strong>HTML5 CSS3 JavaScript </strong><br>Los Angeles Star Gazers Society APOD Web App with NASA-APOD API integration.</p>
           </p>
         </td>
-       <td class="2" width="50%">
+       <td class="2" width=50%>
           <h3 align="center">Personal portfolio</h3>
           <p align="center">
             <a href="https://johnhaastrup.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/AyobamiH/AYOBAMIH/blob/main/portfolio.gif" alt="Portfolio"/></a>
@@ -48,7 +48,7 @@
         </td>
       </tr>
       <tr>
-        <td class="3" width="50%">
+        <td class="3" width=50%>
           <h3 align="center">Mobile responsive website</h3>
           <p align="center">
             <a href="https://razztazz.netlify.app/" target="_blank" rel="noreferrer"> <img  src="https://github.com/AyobamiH/AYOBAMIH/blob/main/raztrazz.gif" alt="Razztrazz "/></a>
@@ -61,7 +61,7 @@
                <strong>HTML5 CSS3 JavaScript </strong><br> A mobile responsive cleaning website to support clients.</p>
           </p>
         </td>
-       <td class="4" width="50%">
+       <td class="4" width=50%>
           <h3 align="center">Doggie hotel kennels galleria</h3>
           <p align="center">
             <a href="https://thedoggiehotelkennels.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/AyobamiH/AYOBAMIH/blob/main/doggie.gif" alt="Doggie"/></a>
@@ -72,6 +72,34 @@
 <!-- discription  -->
             <p align="center">
 		   <strong>HTML5 CSS3 JavaScript </strong><br> The doggie hotel kennels gallery with Dog-Ceo API integration</p>
+          </p>
+        </td>
+	</tr>
+	<tr>
+	<td class="5" width=50%>
+          <h3 align="center">Insight tech creatives agency</h3>
+          <p align="center">
+            <a  href="https://insightcreativesagency.netlify.app/" target="_blank" rel="noreferrer"> <img  src="https://github.com/AyobamiH/AYOBAMIH/blob/main/insighttech.gif" alt="insight tech"/></a>
+<!--   Repo mark   -->
+		  <span align="center"> <a href="https://github.com/AyobamiH/insight-AZ" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub-Repo" height ="25px"></a> 
+<!-- live site  -->
+	<a href="https://insightcreativesagency.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=c96363" alt="Live Site" height="25px" ></a></span>
+<!-- discription  -->
+            <p align="center">
+		    <strong>HTML5 CSS3 JavaScript </strong><br>Insight tech creatives agency</p>
+          </p>
+        </td>
+	<td class="6" width=50%>
+          <h3 align="center">Albion landscaping</h3>
+          <p align="center">
+            <a  href="https://albionlandscaping.netlify.app/" target="_blank" rel="noreferrer"> <img  src="https://github.com/AyobamiH/AYOBAMIH/blob/main/albion.gif" alt="insight tech"/></a>
+<!--   Repo mark   -->
+		  <span align="center"> <a href="https://github.com/AyobamiH/Albion-Landscapers" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub-Repo" height ="25px"></a> 
+<!-- live site  -->
+	<a href="https://insightcreativesagency.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=c96363" alt="Live Site" height="25px" ></a></span>
+<!-- discription  -->
+            <p align="center">
+		    <strong>HTML5 CSS3 JavaScript </strong><br>Albion landscaping</p>
           </p>
         </td>
       </tr>
