@@ -38,9 +38,9 @@
           <p align="center">
             <a href="https://johnhaastrup.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/AyobamiH/AYOBAMIH/blob/main/portfolio.gif" alt="Portfolio"/></a>
  <!--   Repo mark   -->
-            <span> <a href="https://github.com/AyobamiH/Albion-Landscapers" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+            <span> <a href="https://github.com/AyobamiH" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
-	<a href="https://albionlandscaping.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=c96363" alt="Live Site" height="25px"></a> </span>
+	<a href="https://johnhaastrup.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=c96363" alt="Live Site" height="25px"></a> </span>
 <!-- discription  -->
             <p align="center">
 		    <strong>HTML5 CSS3 JavaScript </strong><br> Personal portfolio including links to my recent projects, fun facts and my personal contacts. check this out for more info!</p>
