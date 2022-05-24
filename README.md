@@ -2,7 +2,7 @@
   <img align="center" width="100%" src="https://github.com/AyobamiH/AYOBAMIH/blob/main/Newheader.gif"/>
 </header>
 
-<div align="center">
+<div align="left">
 <img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=340404&background=F90B0B88&vCenter=true&width=560&lines=A+passionate+full-stack+developer+from+Northampton."/>
 </div>
 
